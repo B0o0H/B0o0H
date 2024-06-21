@@ -2,6 +2,7 @@
 
 ```yaml
 ---
+apiVersion: v1
 kind: Bio
 metadata:
   name: about-me
