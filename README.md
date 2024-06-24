@@ -12,6 +12,7 @@ spec:
   certifications:
     - [x] CCNA (Cisco Certified Network Associate), certified in 2023
     - [x] AWS SAA (AWS Solution Architect Associate), certified in 2024
+    - [ ] Kubernetes CKA (Certified Kubernetes Administrator), roadmap in 2024
     - [ ] AWS SAP (AWS Solution Architect Professional), roadmap in 2024
   languanges:
     - Native in Mandarin
@@ -19,7 +20,7 @@ spec:
   skills:
     core: [ "Devops", "Linux"]
     cloud: [ "AWS" ]
-    tools: [ "Jenkins", "Cloudbee CD/RO", "Terraform", "Ansible", "Docker", "Packer", "Git" ]
+    tools: [ "Jenkins", "Cloudbee CD/RO", "Terraform", "Ansible", "Docker", "Kubernetes", "Packer", "Git" ]
     programme language: [ "Python", "Bash/Shell", "Groovy"]
     business: [ "Technical Writing" ]
 ```
