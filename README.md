@@ -12,7 +12,7 @@ spec:
   certifications:
     - [x] CCNA (Cisco Certified Network Associate), certified in 2023
     - [x] AWS SAA (AWS Solution Architect Associate), certified in 2024
-    - [ ] Kubernetes CKA (Certified Kubernetes Administrator), roadmap in 2024
+    - [x] Kubernetes CKA (Certified Kubernetes Administrator), roadmap in 2024
     - [ ] AWS SAP (AWS Solution Architect Professional), roadmap in 2024
   languanges:
     - Native in Mandarin
